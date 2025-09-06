@@ -1,0 +1,14 @@
+{
+  "name": "qa-assessment-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cypress UI automation for QA Engineer Assessment \u2013 Automation & AI",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
+}
